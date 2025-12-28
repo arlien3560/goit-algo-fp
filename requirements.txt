@@ -1,0 +1,10 @@
+flake8==7.3.0
+mccabe==0.7.0
+pycodestyle==2.14.0
+pyflakes==3.4.0
+pulp==2.7.0
+numpy==2.4.0
+scipy==1.16.3
+networkx==-3.6.1
+matplotlib==3.8.0
+pandas==2.3.3
